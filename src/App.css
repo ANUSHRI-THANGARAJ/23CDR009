@@ -1,0 +1,23 @@
+.head{
+  color:rgb(39, 174, 236)
+}
+.priority_button{
+  background-color: aqua;
+  color: black;
+}
+body{
+  background-color: rgb(252, 238, 160);
+}
+.x{
+  margin: 5%;
+  color: brown;
+}
+.box{
+  margin-left: 30% ;
+  position: center;
+   border-color: black;
+   background-color: aliceblue;
+   box-sizing: border-box;
+   width: 300px;
+   height: 100px;
+}
